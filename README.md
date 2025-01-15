@@ -35,6 +35,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 Here are a few projects I'm proud of:
 
 - [ng-ewind](https://github.com/edsion11/ng-ewind): Application by angular with Tailwindcss markdown-wasm angular-universal,powered by firebase.
-- [rust_algorithm](https://github.com/edsion11/rust_algorithm): Algorithm from Rust and
+- [rust_algorithm](https://github.com/edsion11/rust_algorithm): Algorithm from Rust and leetcode solution(javascript)
 
 Thank you for visiting my profile! Feel free to reach out if you want to collaborate or just say hi! 😊
